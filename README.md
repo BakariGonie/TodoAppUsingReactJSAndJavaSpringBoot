@@ -1,0 +1,1 @@
+#This is todo app project developed usind Java springboot(Backend) with ReactJS (Frontend), the database used is h2-database though you can add configurations for other databases in application.properties
